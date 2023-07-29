@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **24impradeep@gmail.com**
 
-- ⚡ Fun fact **My coffee machine is the most beautiful person in the world to me.**
+- ⚡ Fun fact **my coffee machine is the most beautiful person in the world to me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
