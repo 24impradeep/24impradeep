@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
 <h3 align="center">But Professor called me Pradeep Kumar</h3>
 
-<img align="right" alt="coding" width="250" src = "https://images.unsplash.com/photo-1596003906949-67221c37965c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80">
+<img align="right" alt="coding"  width="200"  src = "https://images.unsplash.com/photo-1596003906949-67221c37965c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=24impradeep&label=Profile%20views&color=0e75b6&style=flat" alt="24impradeep" /> </p>
 
